@@ -1,0 +1,61 @@
+
+topic 000
+     laptop	     NUM	     comput	     mac	     nt	     window	     appl	     macbook	     drive	     machin	
+topic 001
+     tv	     NUM	     pictur	     soni	     set	     nt	     qualiti	     screen	     year	     great	
+topic 002
+     NUM	     return	     work	     bad	     box	     problem	     item	     time	     expect	     good	
+topic 003
+     system	     instal	     sensor	     alarm	     easi	     NUM	     secur	     work	     great	     nt	
+topic 004
+     camera	     mount	     NUM	     screw	     nt	     work	     adjust	     cheap	     good	     hold	
+topic 005
+     NUM	     comput	     problem	     lcd	     nt	     great	     screen	     appl	     support	     work	
+topic 006
+     great	     good	     work	     item	     receiv	     purchas	     price	     buy	     bought	     product	
+topic 007
+     NUM	     work	     broken	     return	     time	     box	     expect	     bought	     great	     star	
+topic 008
+     work	     radio	     headset	     ear	     great	     sound	     nt	     mic	     comfort	     midland	
+topic 009
+     great	     work	     buy	     good	     product	     NUM	     happi	     review	     receiv	     camera	
+topic 010
+     work	     good	     price	     buy	     money	     ship	     great	     easi	     nt	     recommend	
+topic 011
+     NUM	     work	     card	     great	     nt	     shift	     de	     side	     good	     nice	
+topic 012
+     phone	     NUM	     nt	     verizon	     nokia	     recept	     batteri	     lg	     time	     call	
+topic 013
+     record	     NUM	     video	     card	     qualiti	     motion	     unit	     time	     set	     batteri	
+topic 014
+     camera	     work	     wireless	     NUM	     set	     panason	     nt	     cam	     setup	     router	
+topic 015
+     light	     NUM	     batteri	     camera	     real	     led	     red	     blink	     flash	     nt	
+topic 016
+     book	     camera	     guid	     manual	     read	     great	     nikon	     card	     refer	     learn	
+topic 017
+     nt	     pictur	     camera	     amazon	     NUM	     buy	     tini	     good	     great	     defect	
+topic 018
+     door	     alarm	     work	     loud	     open	     nt	     great	     chime	     floor	     NUM	
+topic 019
+     NUM	     good	     display	     includ	     window	     option	     nt	     top	     better	     feel	
+topic 020
+     phone	     kid	     good	     nt	     cell	     call	     friend	     NUM	     featur	     easi	
+topic 021
+     tablet	     NUM	     nt	     nexus	     window	     screen	     app	     googl	     charg	     devic	
+topic 022
+     product	     work	     good	     great	     easi	     bought	     price	     exact	     job	     money	
+topic 023
+     phone	     NUM	     camera	     nokia	     bluetooth	     nt	     good	     featur	     mp3	     great	
+topic 024
+     batteri	     unit	     NUM	     detector	     replac	     nt	     plug	     work	     remot	     carbon	
+topic 025
+     NUM	     call	     servic	     phone	     custom	     att	     number	     time	     nt	     problem	
+topic 026
+     phone	     NUM	     nt	     great	     call	     featur	     nextel	     good	     servic	     problem	
+topic 027
+     cabl	     camera	     NUM	     video	     power	     work	     signal	     adapt	     qualiti	     good	
+topic 028
+     NUM	     nook	     tablet	     hd	     app	     read	     screen	     play	     kindl	     download	
+topic 029
+     work	     great	     nt	     good	     buy	     perfect	     time	     money	     love	     recommend	

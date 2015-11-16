@@ -1,0 +1,78 @@
+maxLen: 724.0 minLen: 5.0 avgLen: 42.60511363636363
+initial Model...
+initial stats...
+docID374
+docID376
+docID577
+docID598
+docID655
+docID712
+docID970
+docID970
+docID3290
+docID3290
+docID3632
+docID3887
+docID5122
+docID5122
+docID6124
+docID6448
+docID6945
+avg doc Len478.2142857142857fail doc size14
+Likelihood -3004257.239 at step 0.0 converge to 1.000000...
+initial stats...
+docID658
+docID970
+docID1421
+docID1421
+docID1524
+docID1595
+docID1732
+docID2126
+docID6008
+docID6124
+docID6124
+docID6461
+docID6467
+docID6629
+avg doc Len373.75fail doc size12
+Likelihood -2195987.669 at step 1.0 converge to 0.269041...
+initial stats...
+docID78
+docID374
+docID447
+docID460
+docID468
+docID577
+docID580
+docID598
+docID598
+docID598
+docID598
+docID598
+docID602
+docID664
+docID698
+docID698
+docID813
+docID813
+docID970
+docID970
+docID970
+docID970
+docID1378
+docID1421
+docID1421
+docID1516
+docID1544
+docID1544
+docID1544
+docID1588
+docID1588
+docID1629
+docID1732
+docID1732
+docID1732
+docID1841
+docID1987
+docID2042

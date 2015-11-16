@@ -1,0 +1,61 @@
+
+topic 000
+     phone	     call	     NUM	     nt	     good	     number	     amazon	     samsung	     featur	     nokia	
+topic 001
+     NUM	     money	     de	     good	     light	     qualiti	     nt	     unit	     la	     el	
+topic 002
+     phone	     nt	     NUM	     call	     button	     good	     camera	     time	     hear	     featur	
+topic 003
+     radio	     work	     NUM	     headset	     nt	     midland	     communic	     great	     review	     vox	
+topic 004
+     batteri	     unit	     plug	     NUM	     work	     detector	     alarm	     carbon	     monoxid	     nt	
+topic 005
+     door	     work	     alarm	     loud	     open	     nt	     great	     NUM	     product	     chime	
+topic 006
+     NUM	     nt	     sensor	     control	     system	     batteri	     unit	     alarm	     power	     instal	
+topic 007
+     good	     great	     better	     camera	     receiv	     NUM	     price	     rang	     friend	     signal	
+topic 008
+     camera	     work	     NUM	     good	     cabl	     mount	     nt	     great	     price	     product	
+topic 009
+     NUM	     window	     tablet	     work	     full	     set	     screen	     touch	     review	     desktop	
+topic 010
+     NUM	     tv	     pictur	     soni	     set	     nt	     great	     qualiti	     screen	     year	
+topic 011
+     phone	     NUM	     nt	     servic	     call	     great	     good	     problem	     time	     nextel	
+topic 012
+     book	     camera	     great	     ear	     headset	     mic	     radio	     work	     comfort	     good	
+topic 013
+     tablet	     NUM	     nt	     app	     nexus	     googl	     great	     screen	     love	     android	
+topic 014
+     NUM	     nt	     great	     day	     problem	     card	     devic	     nexus	     return	     tablet	
+topic 015
+     NUM	     work	     warranti	     product	     seller	     good	     nt	     bought	     ship	     day	
+topic 016
+     NUM	     return	     amazon	     week	     product	     day	     time	     defect	     problem	     repair	
+topic 017
+     NUM	     lock	     work	     thing	     replac	     nt	     perfect	     unlock	     great	     remot	
+topic 018
+     system	     instal	     alarm	     sensor	     great	     work	     easi	     NUM	     product	     secur	
+topic 019
+     phone	     NUM	     featur	     camera	     nt	     screen	     button	     great	     good	     pictur	
+topic 020
+     camera	     NUM	     work	     set	     wireless	     nt	     record	     panason	     video	     great	
+topic 021
+     work	     nt	     great	     product	     good	     comput	     window	     lot	     feel	     thing	
+topic 022
+     NUM	     nt	     screen	     bluetooth	     softwar	     work	     set	     great	     good	     card	
+topic 023
+     phone	     NUM	     good	     nokia	     great	     camera	     mp3	     card	     featur	     work	
+topic 024
+     work	     product	     good	     item	     remot	     price	     time	     buy	     ship	     perfect	
+topic 025
+     NUM	     nt	     thing	     lock	     time	     year	     screen	     appl	     machin	     powerbook	
+topic 026
+     work	     item	     order	     good	     box	     great	     amazon	     broken	     product	     walki	
+topic 027
+     NUM	     laptop	     comput	     mac	     nt	     window	     appl	     great	     macbook	     work	
+topic 028
+     NUM	     thing	     buy	     work	     nt	     time	     money	     year	     lot	     amazon	
+topic 029
+     work	     good	     love	     buy	     product	     recommend	     nt	     ship	     happi	     great	
